@@ -6,8 +6,8 @@ export default function Show(){
 
     return (
         <>
-            <h1>Hello from Books / Show page</h1>
-            <p>You are looking at book with id: {id}</p>
+            <h1>Hello from Countrys / Show page</h1>
+            <p>You are looking at country with id: {id}</p>
         </>
     );
 }
